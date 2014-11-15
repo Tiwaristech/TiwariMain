@@ -3,5 +3,7 @@
 void main()
 {
 clrscr();
+printf("enter the String");
+scanf("%c");
 getch();
 }
